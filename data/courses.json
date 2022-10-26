@@ -1,0 +1,226 @@
+[
+    {
+        "id": "01001",
+      "category_id": "01",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "Machine Learning",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFjaGluZSUyMGxlYXJuaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "details": "Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.Machine learning is important because it gives enterprises a view of trends in customer behavior and business operational patterns, as well as supports the development of new products. Many of today's leading companies, such as Facebook, Google and Uber, make machine learning a central part of their operations. Machine learning has become a significant competitive differentiator for many companies."
+    },
+    {
+        "id": "01002",
+      "category_id": "01",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "Deep Learning",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://miro.medium.com/max/1024/0*6XnccoRFvqi4GkXu.jpeg",
+      "details": "Deep learning is a machine learning technique that teaches computers to do what comes naturally to humans: learn by example. Deep learning is a key technology behind driverless cars, enabling them to recognize a stop sign, or to distinguish a pedestrian from a lamppost. It is the key to voice control in consumer devices like phones, tablets, TVs, and hands-free speakers. Deep learning is getting lots of attention lately and for good reason. It's achieving results that were not possible before."
+    },
+    {
+        "id": "01003",
+      "category_id": "01",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "Natural Language Processing",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://www.analyticsinsight.net/wp-content/uploads/2020/09/NLP1-1024x542.jpeg",
+      "details": "Natural language processing (NLP) refers to the branch of computer science—and more specifically, the branch of artificial intelligence or AI—concerned with giving computers the ability to understand text and spoken words in much the same way human beings can. NLP combines computational linguistics—rule-based modeling of human language—with statistical, machine learning, and deep learning models. Together, these technologies enable computers to process human language in the form of text or voice data and to 'understand' its full meaning, complete with the speaker or writer's intent and sentiment."
+    },
+    {
+        "id": "01004",
+      "category_id": "02",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "Cisco CCNA 200-301",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://m.media-amazon.com/images/I/71qdBj5YskL.png",
+      "details": "The Cisco Certified Network Associate v1.0 (CCNA 200-301) exam is a 120-minute exam associated with the CCNA certification. This exam tests a candidate's knowledge and skills related to network fundamentals, network access, IP connectivity, IP services, security fundamentals, and automation and programmability. This exam tests your knowledge and skills related to network fundamentals, network access, security fundamentals, automation and programmability."
+    },
+    {
+        "id": "01005",
+      "category_id": "02",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "CCNP Enterprise",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://intellectualpoint.com/wp-content/uploads/2019/04/CCNP.jpg",
+      "details": "The CCNP Enterprise certification program prepares you for today's professional-level job roles in networking technologies. One of the industry's most respected certifications, CCNP validates the core knowledge you need while providing the flexibility to choose a focus area. Achieving CCNP Enterprise certification proves your skills with enterprise networking solutions. To earn CCNP Enterprise certification, you pass two exams: one that covers core enterprise technologies and one enterprise concentration exam of your choice, so you can customize your certification to your technical area of focus."
+    },
+    {
+        "id": "01006",
+      "category_id": "03",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "Motion Graphic Design",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://biteable.com/content/uploads/2017/09/Motion-Graphics-S-1200x630-c-center.jpg",
+      "details": "Motion graphics is animation, but with text as a major component. Essentially, it's animated graphic design. Ever since motion graphics first entered the scene, there's been a debate about the line between them and full animation. The opening credits of Hitchcock's Psycho is an early example of motion graphics, where the marriage of sound, motion, and graphic design come together exceptionally well. Motion graphics are a way to communicate with the viewer, and add depth to the story. Together with music and effective copy, they can give us a message."
+    },
+    
+    {
+        "id": "01007",
+      "category_id": "03",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "Logo Design",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://i.ytimg.com/vi/UyoXKGQrmtY/maxresdefault.jpg",
+      "details": "Logo design is a branding and marketing tool that can be used to signify a business. Put simply:your logo represents your business brand. It's something simple that, as you build brand loyalty, your customers come to trust and recognize. With logo design, you have a visual communication tool to help you get your message across to the audience. Logos are composed of text, color, shape, and illustrations. It serves as a self-explanatory image that people can use to connect with your brand. This informs the audience while giving them something to associate your brand and ideas with."
+    },
+    {
+        "id": "01008",
+      "category_id": "03",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "Illustration Design",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/05/Website_illustration_jpg_6PA9rpLF.jpg?auto=format&q=60&fit=max&w=930",
+      "details": "Unlike designers who develop logos and similar images, illustration designers are frequently expected to create lively, character-driven illustrations with personality and often a touch of humor. Illustration design can be thought of as commercial art created for specific industries. Many illustration designers specialize and find consistent work in such fields as: Book design and illustration,Television, cinema, and other multimedia endeavors,Comic books and graphic novels,Textbook illustration,Web design,Scientific and other specialized illustration,Storyboarding,Caricature,Fashion and costume design,Cartooning"
+    },
+    {
+        "id": "01009",
+      "category_id": "04",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "IoT Programming and Big Data",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://www.whizlabs.com/blog/wp-content/uploads/2018/07/iot-and-big-data.png",
+      "details": "The Internet of Things is creating massive quantities of data, and managing and analysing it requires a unique approach to programming and statistics for distributed data sources. This course will teach introductory programming concepts that allow connection to, and implementation of some functionality on, IoT devices, using the Python programming language. In addition, students will learn how to use Python to process text log files, such as those generated automatically by IoT sensors and other network-connected systems."
+    },
+    {
+        "id": "01010",
+      "category_id": "04",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "Programming with Cloud IoT Platforms",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~cloud-iot-platform/XDP~COURSE!~cloud-iot-platform.jpeg",
+      "details": "Internet of Things (IoT) is an emerging area of information and communications technology (ICT) involving many disciplines of computer science and engineering including sensors/actuators, communications networking, server platforms, data analytics and smart applications. IoT is considered to be an essential part of the 4th Industrial Revolution along with AI and Big Data. This course aims at introducing IoT Cloud platforms from Samsung, Microsoft, Amazon, IBM and Google and how they can be used in developing IoT applications."
+    },
+    {
+        "id": "01011",
+      "category_id": "05",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "Front-End Web Development",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://fs.hubspotusercontent00.net/hubfs/6426302/Imported_Blog_Media/263a75529a1752b75d64f9f21fd07c92-3-2.jpg",
+      "details": "Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly. The challenge associated with front end development is that the tools and techniques used to create the front end of a website change constantly and so the developer needs to constantly be aware of how the field is developing."
+    },
+    {
+        "id": "01012",
+      "category_id": "05",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "Back-End Web Development",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://eww-wp-new.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/12/23053531/backend-web-development-guide.jpg",
+      "details": "Back-end developers and engineers have similar technical skills, but different responsibilities. A back-end developer is like a teacher, whereas a back-end engineer is like a school principal who creates the big-picture strategy. Back-end developers tend to focus on smaller parts of the whole, such as applications and programs, working with teams to prove their design methods are viable. Learn the foundational skills of back-end web development and put them into practice using the popular server-side programming language Node.js. Work with databases, test your code, build and consume RESTful APIs, and dig deeper into security and HTTP. Note: This path is designed for web developers who know the basics of programming, HTML, JavaScript, and CSS,"
+    },
+    {
+        "id": "01013",
+      "category_id": "05",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "Full-Stack Web Development",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png",
+      "details": "Full-stack developer roles are among the hottest careers in the tech space now. These talented folks can develop a whole product from scratch. A full-stack developer is a combination of a Front-end developer and a Back-end developer. These two in themselves are full-time jobs and most people make careers out of one of them. So, we will start with the Front-end roadmap and then go to the Back-end roadmap. A person interested in becoming a Full-stack developer needs to have proficiency in both the front-end and back-end tools, just like I started as a Front-end developer and later on become a Full stack developer by mastering JavaScript backend technologies and databases. "
+    },
+    {
+        "id": "01014",
+      "category_id": "06",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "JavaScript",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-javascript/sta-je-javascript.jpg",
+      "details": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well."
+    },
+    {
+        "id": "01015",
+      "category_id": "06",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "Python",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://www.datocms-assets.com/14946/1590686329-python-analytics-cover.png?auto=format&fit=max&w=1200",
+      "details": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together."
+    },
+    {
+        "id": "01016",
+      "category_id": "06",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "C++",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
+      "details": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together."
+    },
+    {
+        "id": "01017",
+      "category_id": "06",
+      "rating":  4.7,
+      "total_purchase": 488,
+      "course_name": "Java",
+      "author": {
+        "name": "Denial joe",
+        "img": "https://i.ibb.co/JQXsvC6/author.jpg"
+      },
+      "image_url": "https://images.unsplash.com/photo-1588239034647-25783cbfcfc1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8amF2YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "details": "Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc."
+    }
+    
+
+]

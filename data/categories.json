@@ -1,0 +1,26 @@
+[
+    {
+      "id": "01",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": "02",
+      "name": "Networking"
+    },
+    {
+      "id": "03",
+      "name": "Graphics Design"
+    },
+    {
+      "id": "04",
+      "name": "IoT(Internet of Things)"
+    },
+    {
+      "id": "05",
+      "name": "Web Development"
+    },
+    {
+      "id": "06",
+      "name": "Programming Languages"
+    }
+  ]
